@@ -1,1 +1,33 @@
-/* Add your own styles */
+h1 {
+    font-size: 70px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: darkgray;
+}
+
+#controls {
+    font-size: 20px;
+    text-align: center;
+}
+
+#result {
+    margin-left: 35%;
+}
+
+input {
+    padding: 10px;
+    font-size: 15px;
+    width: 20%;
+}
+
+#lookup {
+    background-color:black;
+    color:white;
+    padding: 10px;
+    width: 10%;
+    font-size: 15px;
+}
